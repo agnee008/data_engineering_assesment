@@ -1,4 +1,4 @@
-# data Engineering BI Assessment
+# Data Engineering BI Assessment
 
 This Python script fetches recipes from a provided URL, extracts chili recipes from the fetched data, and analyzes them to determine their difficulty level based on preparation and cooking times. It saves the extracted chili recipes to a CSV file and calculates the average total time for each difficulty level.
 
